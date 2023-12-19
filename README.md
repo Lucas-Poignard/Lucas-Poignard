@@ -1,4 +1,4 @@
-<h1 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h1>
+<h1 align="center">Étudiant en Cybersécurité 🎓</h1>
 
 ###
 
