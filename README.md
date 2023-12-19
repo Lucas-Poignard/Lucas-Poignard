@@ -36,8 +36,6 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="60" alt="symfony logo"  />
-  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
